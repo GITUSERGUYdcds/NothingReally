@@ -19,7 +19,7 @@ header a{
 }
 
 header a {
-    padding: 10px
+    padding: 10px;
 }
 
 main h1{
@@ -32,7 +32,7 @@ main h1{
 footer {
     background-color: Orange;
     border:5px solid Red;
-    border-radius:30px
+    border-radius:30px;
 }
 
 .icontacts{
