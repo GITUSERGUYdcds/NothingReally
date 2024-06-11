@@ -1,0 +1,98 @@
+body {
+    font-family: sans-serif;
+    background-color:palegoldenrod;
+
+}
+
+header {
+    background-color: Orange;
+    border:5px solid Red;
+    border-radius:30px
+}
+
+header img {
+    border-radius:30px
+}
+
+header a{
+    text-align:center;
+}
+
+header a {
+    padding: 10px
+}
+
+main h1{
+    text-align:center;
+    color:Red;
+    font-family:Tahoma;
+}
+
+
+footer {
+    background-color: Orange;
+    border:5px solid Red;
+    border-radius:30px
+}
+
+.icontacts{
+    text-align:center;
+}
+
+footer p{
+    text-align:center;
+}
+
+.link{
+    background-color: Orange;
+    border:5px solid Red;
+    border-radius:30px;
+    padding:10px
+}
+
+nav a{ 
+    display: inline-block;
+    margin:10px
+}
+
+.fireworks {
+     background-color: Orange;
+    border:5px solid Red;
+    border-radius:30px;
+    padding:10px
+}
+
+.fireworks2{
+     background-color: Orange;
+    border:5px solid Red;
+    border-radius:30px;
+    padding:10px
+}
+
+.offers{
+    background-color: Orange;
+    border:5px solid Red;
+    border-radius:30px;
+    padding:10px
+}
+
+.deli{
+    background-color: Orange;
+    border:5px solid Red;
+    border-radius:30px;
+    padding:10px
+}
+
+.forgotten {
+    background-color: Orange;
+    border:5px solid Red;
+    border-radius:30px;
+    padding:10px
+}
+
+.rest{
+    background-color: Orange;
+    border:5px solid Red;
+    border-radius:30px;
+    padding:10px
+}
